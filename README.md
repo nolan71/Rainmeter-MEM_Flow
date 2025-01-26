@@ -9,7 +9,7 @@ MEM Flow is a customizable Rainmeter skin that visualizes your system memory (RA
 
 The line graph can dynamically change colors based on user-defined thresholds, making monitoring performance at a glance easy. These thresholds are fully customizable:
 
-**Usage Line Graph**: By default, the line turns red if CPU usage exceeds 80%.
+**Usage Line Graph**: By default, the line turns red if RAM usage exceeds 80%.
 
 ![image](https://github.com/user-attachments/assets/62437d08-66fd-4cb6-80af-809b6fae4005)
 
