@@ -1,6 +1,12 @@
-# MEM Flow
+# About MEM Flow
 
-MEM Flow is a customizable Rainmeter skin that visualizes your system memory usage in real-time. It displays current and historical memory usage using a sleek line graph, and includes the total system memory. The skin utilizes Rainmeter's native memory measures for RAM usage metrics.
+MEM Flow is a customizable Rainmeter skin that visualizes your system memory (RAM) usage in real-time. It displays current and historical memory usage using a sleek line graph, percentage readout, and includes a total system memory readout. The skin utilizes Rainmeter's native memory measures for RAM usage metrics.
+
+## Customizable Graph Colors
+
+The line graph can dynamically change colors based on user-defined thresholds, making monitoring performance at a glance easy. These thresholds are fully customizable:
+
+**Usage Line Graph**: By default, the line turns red if CPU usage exceeds 80%.
 
 # Requirements
 
@@ -8,7 +14,7 @@ MEM Flow is a customizable Rainmeter skin that visualizes your system memory usa
 
 # Installation
 
-1. Install/Update Rainmeter (links above)
+1. Install/Update Rainmeter (link above)
 2. Download the [latest release of MEM Flow](https://github.com/nolan71/Rainmeter-MEM_Flow/releases/latest)
 3. Double-click the downloaded .rmskin file and follow the prompts to install MEM Flow
 4. Once completed, the skin should automatically load! If it doesn't, open the Rainmeter skin manager and manually load the skin
